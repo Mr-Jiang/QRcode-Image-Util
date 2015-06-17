@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">engineer_jsp_qrcode_master</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="create_logo_qrcode">生成带Logo二维码</string>
+    <string name="create_qrcode">生成普通二维码</string>
+</resources>
